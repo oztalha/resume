@@ -76,7 +76,9 @@ Istanbul University Data Journalism Workshop, Dec 2014
 
 #Publications
 
-1.  **Talha OZ** ["113th Congress as News Commentators on Twitter"](http://talhaoz.com/?p=634)
+1.  Trevor Thrall, Andrew Armstrong, **Talha OZ** ["Circle of Doom? News Sharing and Negativity Bias on Social Media"](http://toz.us/#NotAvailableYet)
+	111th APSA Annual Meeting (APSA 2015), San Francisco, CA Sep 2015
+1.  **Talha OZ** ["113th Congress as News Commentators on Twitter"](http://toz.us/?p=634)
 	8th Political Networks Conference (PolNet), Portland, OR Jun 2015
 1.  **Talha OZ** ["All the Commentaries That's Fit to Tweet"](http://talhaoz.com/news/)
 	1st Computational Social Science Summit (CSSS15), Evanston, IL May 2015

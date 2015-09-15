@@ -1,0 +1,1 @@
+The original presentation is in Google Slides, the PDF file in this directory is exported from it. You can find [the original slides here](https://docs.google.com/presentation/d/1tFlbjHLpbgp9GwHqo2QwLtwTdRxiMjDzErJ1_iVJHq4/edit?usp=sharing).
