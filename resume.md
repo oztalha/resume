@@ -1,4 +1,4 @@
-#Education
+##Education
 
 **George Mason University** (Jan 2014 - Present)
 
@@ -6,32 +6,32 @@
 
 **George Mason University** (Aug 2011 - Dec 2013)
 
-- MS in Computer Science, *focus on Knowledge Discovery and Health Informatics*
+- MS in Computer Science, *emphasis on Artificial Intelligence and Data Mining*
 
 **University of Nevada, Reno** (Aug 2008 - Dec 2010)
 
-- MS in Computer Science, *focus on Networks and Internet Topology*
+- MS in Computer Science, *emphasis on Networks and the Internet*
 
 **Bogazici University** (Sep 2003 - Jun 2008)
 
 - BS in Computer Engineering
 
-#Positions
+##Employment
 
-### Graduate Resarch Assistant at George Mason University (Funded by GMU, NIST and NBER)
-- System Administration : Virtualization on XenServer & CentOS; Data management on PostgreSQL
-- Research : Various Health Informatics projects using Data Mining, Social Network Analysis, Machine Learning, Natural Language Processing, and Genetic Algorithms
+### Graduate Research Assistant at George Mason University
+- System Administration : Responsible for managing research and web servers in the Center for Discovery Science and Health Informatics (DSHI)
+- Research : Involved in various Health Informatics projects using Machine Learning, Natural Language Processing, Social Network Analysis, and Genetic Algorithms
 - Teaching: Taught MS SQL and Weka in help sessions for Data Mining in Health Care course
 
-### Application System Analyist at University of Arkansas for Medical Sciences (UAMS)
+### Application System Analyist at University of Arkansas for Medical Sciences
 - Developed applications of molecular analysis tools for cancer research
 and worked on integration of caArray, GenePattern and Taverna
 
-### Graduate Assistant at University of Nevada, Reno (UNR)
-- Research: Developed the probing module of Cheleby, an integrated Internet topology mapping system
-- Teaching ([Math & Stats](http://www.unr.edu/math/)):
-Led three recitation sections of Calculus II which meets two days per week
-- Teaching ([CSE](http://www.unr.edu/cse/)):
+### Graduate Assistant at University of Nevada, Reno
+- Research: Developed the probing module of an integrated Internet topology mapping system
+- Teaching (Math & Stats):
+Led three recitation sections of Calculus II which met two days per week
+- Teaching (CSE):
 Data Structures, Programming Languages Concepts, Principles of Operating Systems, Computer Network Systems, Computer Security
 
 ### Wireless Technologies Intern at Bosch Research (Palo Alto, CA) 
@@ -39,42 +39,8 @@ Data Structures, Programming Languages Concepts, Principles of Operating Systems
 demonstrator to achieve the idea of IoT (Internet of Things) by integrating
 tiny sensors into TCP/IP networks.
 
-#Honors 
 
-- George Mason University Travel Grant for PolNet8 Conference in Portland, OR (Jun 2015)
-- Political Networks Fellowship Award ($700) Montreal, QC (May 2014)
-- Honorable Mention ($1,000) in DC Tech Hackathon by D&B at Microsoft Chevy Chase, MD (Nov 2013)
-- Placed 1st and received 2012 Virginia HIMSS poster scholarship award ($1,000)
-- Finished 8th in Data Mining Hackathon on Best Buy Mobile - ACM SF Bay Area Chapter 2012
-- Travel grant for ACM/IEEE Symposium on ANCS 2009
-- Offered full scholarship by Ministry of Education to pursue undergraduate education abroad
-- Placed 24th in national University Admission Exam 2002 among 1.5M participants
-- Valedictorian among graduates of 2002 at Vali Vecdi Gonul High School
-- Placed top 10 in computer science track at TUBITAK Project Competition 2001
-- Placed 8th in national High School Admission Exam 1999 among 350K students
-
-#Invited Talks
-
-1. ["Computational Social Science"](http://toz.us/pubs/#toAppear)
-  Summer Workshop at Turkic American Alliance ([TAA](http://turkicamericanalliance.org/)), Washington, DC, July 2015
-1. ["Data Driven Computational Social Science"](https://docs.google.com/presentation/d/1yuHfA1NT70XV3GzIa6w_rTN_e8MwqN3yh6PQlqMR_FU),
-College of Communication at Hacettepe University, Mar 2015
-1. ["Open Data and Computational Social Science"](https://docs.google.com/presentation/d/1GuInZz3N6_9isBn9QYaOMr15VgNiqgpj_Fh7k0iMboE), UN Ankara Data Journalism Workshop, Mar 2015
-1. ["My Ongoing Work on Politics & Twitter"](http://www.slideshare.net/oztalha/toz-47802496),
-CSS Colloquium at Center for Social Complexity, GMU, Feb 2015
-1. ["Data Journalism & Computational Social Science"](https://www.youtube.com/watch?v=ss7GeBDXJRE),
-Istanbul University Data Journalism Workshop, Dec 2014
-1. ["An Overview of Computational Social Science"](http://www.slideshare.net/oztalha/introduction-to-computational-social-science)
-  2nd GrandEng Workshop, Princeton University, NJ, May 2014
-1.  Hakan Kardes, **Talha OZ**, Mehmet H. Gunes ["Cheleby: An Internet
-    Topology Mapping System"](http://www.mli.gmu.edu/toz/publications/2011-AIMS.pdf)
-    3rd workshop on Active Internet Measurements, San Diego, CA Feb
-    2011 (abstract review)
-1.  **Talha OZ**, Hakan Kardes, Mehmet H. Gunes ["Cheleby: Subnet-level
-    Internet Mapper"](http://www.mli.gmu.edu/toz/publications/2010-AIMS.pdf)
-    2nd workshop on Active Internet Measurements, San Diego, CA Feb 2010 (abstract review)
-
-#Publications
+##Publications
 
 1.  Trevor Thrall, Andrew Armstrong, **Talha OZ** ["Circle of Doom? News Sharing and Negativity Bias on Social Media"](http://toz.us/#NotAvailableYet)
 	111th APSA Annual Meeting (APSA 2015), San Francisco, CA Sep 2015
@@ -113,10 +79,46 @@ Istanbul University Data Journalism Workshop, Dec 2014
     Algorithm using Parallel Computing" TUBITAK Project Competition,
     Ankara, Turkey, Apr 2001
 
-#Services
+##Invited Talks
+
+1. ["Computational Social Science"](http://toz.us/pubs/#toAppear)
+  Summer Workshop at Turkic American Alliance ([TAA](http://turkicamericanalliance.org/)), Washington, DC, July 2015
+1. ["Data Driven Computational Social Science"](https://docs.google.com/presentation/d/1yuHfA1NT70XV3GzIa6w_rTN_e8MwqN3yh6PQlqMR_FU),
+College of Communication at Hacettepe University, Mar 2015
+1. ["Open Data and Computational Social Science"](https://docs.google.com/presentation/d/1GuInZz3N6_9isBn9QYaOMr15VgNiqgpj_Fh7k0iMboE), UN Ankara Data Journalism Workshop, Mar 2015
+1. ["My Ongoing Work on Politics & Twitter"](http://www.slideshare.net/oztalha/toz-47802496),
+CSS Colloquium at Center for Social Complexity, GMU, Feb 2015
+1. ["Data Journalism & Computational Social Science"](https://www.youtube.com/watch?v=ss7GeBDXJRE),
+Istanbul University Data Journalism Workshop, Dec 2014
+1. ["An Overview of Computational Social Science"](http://www.slideshare.net/oztalha/introduction-to-computational-social-science)
+  2nd GrandEng Workshop, Princeton University, NJ, May 2014
+1.  Hakan Kardes, **Talha OZ**, Mehmet H. Gunes ["Cheleby: An Internet
+    Topology Mapping System"](http://www.mli.gmu.edu/toz/publications/2011-AIMS.pdf)
+    3rd workshop on Active Internet Measurements, San Diego, CA Feb
+    2011 (abstract review)
+1.  **Talha OZ**, Hakan Kardes, Mehmet H. Gunes ["Cheleby: Subnet-level
+    Internet Mapper"](http://www.mli.gmu.edu/toz/publications/2010-AIMS.pdf)
+    2nd workshop on Active Internet Measurements, San Diego, CA Feb 2010 (abstract review)
+
+##Honors 
+
+- George Mason University Travel Grant for PolNet8 Conference in Portland, OR (Jun 2015)
+- Political Networks Fellowship Award ($700) Montreal, QC (May 2014)
+- Honorable Mention ($1,000) in DC Tech Hackathon by D&B at Microsoft Chevy Chase, MD (Nov 2013)
+- Placed 1st and received 2012 Virginia HIMSS poster scholarship award ($1,000)
+- Finished 8th in Data Mining Hackathon on Best Buy Mobile - ACM SF Bay Area Chapter 2012
+- Travel grant for ACM/IEEE Symposium on ANCS 2009
+- Offered full scholarship by Ministry of Education to pursue undergraduate education abroad
+- Placed 24th in national University Admission Exam 2002 among 1.5M participants
+- Valedictorian among graduates of 2002 at Vali Vecdi Gonul High School
+- Placed top 10 in computer science track at TUBITAK Project Competition 2001
+- Placed 8th in national High School Admission Exam 1999 among 350K students
+
+
+##Services
 
 ### Open Source Projects
-- [DD-CSS](http://dd-css.com/): A web application to collect & analyze social media data for free
+- [DD-CSS](http://dd-css.com/): A web application to collect & analyze social media data, powered by Flask
 - [YSK](https://github.com/oztalha/YSK): Scrapes and analyzes official election results from the website of the Supreme Electoral Council of Turkey
 
 ### Reviewer
@@ -130,7 +132,7 @@ Istanbul University Data Journalism Workshop, Dec 2014
 - The Institute of Electrical and Electronics Engineers (IEEE) (2009-2010)
 
 ### University Service/Involvement
-- Representing [DSHI](http://dshi.gmu.edu/) at the Systems Administrators Forum (SALT) at GMU (2014-Present)
+- Representing DSHI at the Systems Administrators Forum (SALT) at GMU (2014-Present)
 - Representative of College of Engineering in Graduate Student Association, UNR (2009-2010)
 - Technical services at UNR-CSE colloquia (2009-2010)
 - University of Nevada, Reno Turkish Cultural Association, Treasurer (2009-2010)
