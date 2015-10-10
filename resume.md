@@ -1,4 +1,4 @@
-##Education
+#Education
 
 **George Mason University** (Jan 2014 - Present)
 
@@ -16,31 +16,31 @@
 
 - BS in Computer Engineering
 
-##Employment
+#Employment
 
-### Graduate Research Assistant at George Mason University
+## Graduate Research Assistant at George Mason University
 - System Administration : Responsible for managing research and web servers in the Center for Discovery Science and Health Informatics (DSHI)
 - Research : Involved in various Health Informatics projects using Machine Learning, Natural Language Processing, Social Network Analysis, and Genetic Algorithms
 - Teaching: Taught MS SQL and Weka in help sessions for Data Mining in Health Care course
 
-### Application System Analyist at University of Arkansas for Medical Sciences
+## Application System Analyist at University of Arkansas for Medical Sciences
 - Developed applications of molecular analysis tools for cancer research
 and worked on integration of caArray, GenePattern and Taverna
 
-### Graduate Assistant at University of Nevada, Reno
+## Graduate Assistant at University of Nevada, Reno
 - Research: Developed the probing module of an integrated Internet topology mapping system
 - Teaching (Math & Stats):
 Led three recitation sections of Calculus II which met two days per week
 - Teaching (CSE):
 Data Structures, Programming Languages Concepts, Principles of Operating Systems, Computer Network Systems, Computer Security
 
-### Wireless Technologies Intern at Bosch Research (Palo Alto, CA) 
+## Wireless Technologies Intern at Bosch Research (Palo Alto, CA) 
 - Implemented the required modules for a 6LoWPAN based web server
 demonstrator to achieve the idea of IoT (Internet of Things) by integrating
 tiny sensors into TCP/IP networks.
 
 
-##Publications
+#Publications
 
 1.  Trevor Thrall, Andrew Armstrong, **Talha OZ** ["Circle of Doom? News Sharing and Negativity Bias on Social Media"](http://toz.us/#NotAvailableYet)
 	111th APSA Annual Meeting (APSA 2015), San Francisco, CA Sep 2015
@@ -79,7 +79,7 @@ tiny sensors into TCP/IP networks.
     Algorithm using Parallel Computing" TUBITAK Project Competition,
     Ankara, Turkey, Apr 2001
 
-##Invited Talks
+#Invited Talks
 
 1. ["Computational Social Science"](http://toz.us/pubs/#toAppear)
   Summer Workshop at Turkic American Alliance ([TAA](http://turkicamericanalliance.org/)), Washington, DC, July 2015
@@ -100,7 +100,7 @@ Istanbul University Data Journalism Workshop, Dec 2014
     Internet Mapper"](http://www.mli.gmu.edu/toz/publications/2010-AIMS.pdf)
     2nd workshop on Active Internet Measurements, San Diego, CA Feb 2010 (abstract review)
 
-##Honors 
+#Honors 
 
 - George Mason University Travel Grant for PolNet8 Conference in Portland, OR (Jun 2015)
 - Political Networks Fellowship Award ($700) Montreal, QC (May 2014)
@@ -115,29 +115,28 @@ Istanbul University Data Journalism Workshop, Dec 2014
 - Placed 8th in national High School Admission Exam 1999 among 350K students
 
 
-##Services
+#Services
 
-### Open Source Projects
+## Open Source Projects
 - [DD-CSS](http://dd-css.com/): A web application to collect & analyze social media data, powered by Flask
 - [YSK](https://github.com/oztalha/YSK): Scrapes and analyzes official election results from the website of the Supreme Electoral Council of Turkey
 
-### Reviewer
+## Reviewer
 - ABTA 2015 Doctoral Researcher Awards, London, UK
-([link](http://abtanet.org.uk/Awards/Detail/8/2015-ABTA-Doctoral-Researcher-Awards))
 
-### Professional Organizations
+## Professional Organizations
 - American Medical Informatics Association (AMIA) (2013-2014)
 - The Association for the Advancement of Artificial Intelligence (AAAI) (2012-2013)
 - The Healthcare Information and Management Systems Society (HIMSS) (2012-2013)
 - The Institute of Electrical and Electronics Engineers (IEEE) (2009-2010)
 
-### University Service/Involvement
+## University Service/Involvement
 - Representing DSHI at the Systems Administrators Forum (SALT) at GMU (2014-Present)
 - Representative of College of Engineering in Graduate Student Association, UNR (2009-2010)
 - Technical services at UNR-CSE colloquia (2009-2010)
 - University of Nevada, Reno Turkish Cultural Association, Treasurer (2009-2010)
 
-### Community Engagement
+## Community Engagement
 - Judge at Pinnacle Academy Science Fair 2011-2014 (Fairfax, VA)
 - Computer science instructor and chaperon (CalPoly Pomona, AMSP Summer 2010)
 - Judge at Intel ISEF 2009 (Reno, NV)
